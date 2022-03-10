@@ -39,7 +39,11 @@
     
   *How to run application/tests:*
     
-  There are 4 tests that can be run. Simply navigate to the tests folder to find them.
+  There are 4 tests that can be run. Simply navi
+
+https://user-images.githubusercontent.com/94639814/157720541-18550625-c44e-415e-bfe1-04d04be4c486.mov
+
+gate to the tests folder to find them.
     
   ## License
     
