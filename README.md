@@ -21,13 +21,13 @@
     
   *How to install:*
     
-  Install
+  Install by cloning from the repo. Make sure that you have the proper libraries installed (Node.JS & Inquirer).
     
   ## Usage 
     
   *Instructions:*
     
-  Instructions
+  Open the application and run it from the terminal using node index.js
     
   ## Contributing
     
@@ -39,7 +39,7 @@
     
   *How to run application/tests:*
     
-  TESTS
+  There are 4 tests that can be run. Simply navigate to the tests folder to find them.
     
   ## License
     
@@ -52,6 +52,6 @@
    
   GitHub: [@ebattani](https://api.github.com/users/ebattani)
 
-  Email: null
+  Email: battaniethan@gmail.com
 
   
